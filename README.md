@@ -78,8 +78,8 @@
 ## 🔗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://telegram.dog/Elite_Kirito" class="padded"><img align="left" alt="Skyxlor" width="40px" src="./res/telegram.png" /></a> 
-<a href="https://instagram.com/its_me_mayur_.02" class="padded"><img align="left" alt="Skyxlor" width="40px" src="./res/instagram.png" /></a> 
+<a href="https://telegram.dog/Elite_Kirito" class="padded"><img align="left" alt="kirito" width="40px" src="./res/telegram.png" /></a> 
+<a href="https://instagram.com/its_me_mayur_.02" class="padded"><img align="left" alt="kirito" width="40px" src="./res/instagram.png" /></a> 
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
